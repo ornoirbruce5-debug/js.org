@@ -1558,6 +1558,7 @@ var cnames_active = {
   "jessm": "jessi-mhernandez.github.io/JessicaM",
   "jets": "nexts.github.io/Jets.js",
   "jetup": "aldhosutra.github.io/jetup",
+  "jeuneboutique": "ornoirbruce5-debug.github.io/JeuneBoutique",
   "jimple": "fjorgemota.github.io/jimple",
   "jinada": "redsplit.github.io/jinada",
   "jjlc": "k-yak.github.io/JJLC", // noCF? (don´t add this in a new PR)
